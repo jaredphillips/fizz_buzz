@@ -1,3 +1,5 @@
+# My first go at fizzbuzz
+
 number = 0
 
 while number <= 100
